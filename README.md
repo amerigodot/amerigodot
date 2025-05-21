@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amerigodot
-- 👀 I’m interested in music, reads, movies
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in modern technology
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
 - 😄 Pronouns: any
